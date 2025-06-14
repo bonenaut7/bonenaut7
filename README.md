@@ -6,3 +6,4 @@
 
 
 ### _Writing weird stuff since 2017_
+[![gdx-psx](https://raw.githubusercontent.com/bonenaut7/gdx-psx/refs/heads/main/.github/gdxpsx.gif)](https://github.com/bonenaut7/gdx-psx/)
