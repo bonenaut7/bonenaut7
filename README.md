@@ -6,5 +6,5 @@
 [![LibGDX](https://img.shields.io/badge/libGDX-e74a45?style=for-the-badge)](https://libgdx.com/)
 
 
-### _Writing weird stuff since 2017_
+### _Writing weird stuff like this:_
 [![gdx-psx](https://raw.githubusercontent.com/bonenaut7/gdx-psx/refs/heads/main/.github/gdxpsx.gif)](https://github.com/bonenaut7/gdx-psx/)
